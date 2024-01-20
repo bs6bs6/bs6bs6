@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bs6bs6&label=Profile%20views&color=0e75b6&style=flat" alt="bs6bs6" /> </p>
 
-- 🔭 I’m currently working on **my CS Master degree at Simon Fraser University**
+- 🔭 I’m currently working on **the CS Master degree at Simon Fraser University**
 
-- 🌱 I’m currently learning **Java, TypeScript, React**
+- 🌱 I’m currently learning **Java, TypeScript, React, AWS**
+
+- 🤩 I’m currently enjoying **⚽️, 🏂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
